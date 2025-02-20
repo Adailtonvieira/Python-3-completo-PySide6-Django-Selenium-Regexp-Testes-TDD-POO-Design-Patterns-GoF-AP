@@ -13,3 +13,4 @@ if primeiro_numero.isdigit() and segundo_numero.isdigit():
         print(f'O segundo valor: {int(segundo_numero)} é maior que o primeiro valor: {int(primeiro_numero)}.')
 else:
     print('Digite um número válido, não uma string.')
+    print('nada mais')
