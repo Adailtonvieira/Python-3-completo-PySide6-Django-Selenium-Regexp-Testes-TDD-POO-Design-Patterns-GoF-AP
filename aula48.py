@@ -6,3 +6,4 @@ print(lista_a)
 
 for nome in lista_a:
     print(nome, type(nome))
+    print(nome)
