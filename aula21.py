@@ -15,3 +15,4 @@ else:
     print('Digite um número válido, não uma string.')
     print('nada mais')
     print('nada mais')
+    print('nada mais')
