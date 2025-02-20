@@ -14,3 +14,4 @@ if primeiro_numero.isdigit() and segundo_numero.isdigit():
 else:
     print('Digite um número válido, não uma string.')
     print('nada mais')
+    print('nada mais')
